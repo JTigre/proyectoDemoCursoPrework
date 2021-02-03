@@ -1,2 +1,7 @@
-This is just a sample text file. I am excited about my new knowledge of github. Last night I finished the course on "Web Development Environment Setup"
-I plan on taking one more course on git and github, this is something I should have done a long time ago. 
+This is just a sample text file. I am excited about my new knowledge of github. 
+Last night I finished the course on "Web Development Environment Setup"
+I plan on taking one more course on git and github, this is something I 
+should have done a long time ago.
+
+Today's date is 02/03/21 and I am modifying this file for the purpose of 
+practicing a git push command (git push -u origin master). 
